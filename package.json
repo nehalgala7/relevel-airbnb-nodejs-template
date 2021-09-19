@@ -1,5 +1,5 @@
 {
-  "name": "relvel-bigbasket-clone-backend",
+  "name": "relvel-airbnb-clone-backend",
   "version": "1.0.0",
   "description": "Relvel backend assignment using Nodejs Express framework",
   "main": "src/server.js",
